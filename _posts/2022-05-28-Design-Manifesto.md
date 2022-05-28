@@ -1,4 +1,6 @@
-1. **My code of ethics**
+## Design Manifesto - Zachary Ludwig
+
+#### My code of ethics
 
   a. **Honesty**
 
@@ -16,25 +18,24 @@ Once you finish your design, give credit! I took influence from many people, sou
 
 
 
-2. **Everything happens for a reason**
+#### Everything happens for a reason
 
 **I never keep my head down** when things go bad in the design process, as it will always be harmful to my progress. “Everything happens for a reason” is thus a great quote to live by when researching and designing, since living by it lets me keep my head up and look for opportunities when things seem to have gone wrong. **Looking at my failures like they are just failures and nothing more means I will miss chances for learning, new ideas, and inspiration hidden in the supposed mess**, severely limiting the potential of my design.
 
 
-
-3. **It's always better together**
+#### It's always better together
 
 **Collaboration, collaboration, collaboration.** If you can’t tell, I believe that working with others is key to the design process. This was a key part of my design process for the HM Convenience Map, working with Sari and Sawyer, and **the ability for us to bounce ideas off of each other is what made our final project what it was.** Sawyer had the idea of a map, and I had the idea of providing access to printers, and it was Sari who first mentioned the importance of charging our phones. **Without a single cog in this machine, our final product would never have been as complete as it was.** Further, with different skills in coding, design, and writing, all of our class assignments always had someone with expertise in the area working on it. Thus, in the future, I will always work to design with a team!
 
 
 
-4. **Accountability and setting goals**
+#### Accountability and setting goals
 
 Two potentially separate topics go hand in hand when designing. On its own, I realize accountability is important, especially in a group setting. Each member of the group needs to be doing their job for the final product to be completed, and my group, the Convenience Captains, used a text group chat for that purpose. The same goes for setting goals. Looking back at the process of designing the HM Convenience Map, if my only task had been to produce the final project, I would have said “Impossible.” However, with smaller goals laid in front of us, our group was able to take step after step until we reached the final goal. Together, however, the impact on a design process is crazy. **Smaller goals not only kept us accountable, as deadlines for each made sure the entire group stayed focused, but they also motivated us for the longer road ahead.**
 
 
 
-5. **Iterative design and continuous progress**
+#### Iterative design and continuous progress
 
 On that note, the last main point that defines my design process is in the name “iterative design.” These designs are made of many smaller steps, each its own iteration, which can be seen in the Convenience Captains' website
 [here](https://hmappdevproject.github.io). Making goals helps with having separate iterations to make, 
